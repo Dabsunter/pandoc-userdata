@@ -1,0 +1,7 @@
+defaults:
+  - stdpaper
+
+variables:
+  fontsize: 12pt
+  mainfont: Unistra A
+  monofont: JetBrains Mono

@@ -1,0 +1,18 @@
+defaults:
+  - dabs
+
+to: revealjs
+
+standalone: true
+
+html-math-method:
+  method: mathjax
+
+slide-level: 2
+
+variables:
+  revealjs-url: https://cdn.jsdelivr.net/npm/reveal.js@^4
+  highlightjs: true
+
+filters:
+  - revealjs-codeblock.lua

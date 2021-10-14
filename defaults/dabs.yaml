@@ -1,0 +1,7 @@
+metadata:
+  author: David Nicolazo
+
+pdf-engine: xelatex
+
+variables:
+  lang: fr-FR

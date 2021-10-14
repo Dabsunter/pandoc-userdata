@@ -1,0 +1,9 @@
+defaults:
+  - dabs
+
+standalone: true
+
+variables:
+  papersize: a4
+  geometry:
+    - margin=2.5cm
