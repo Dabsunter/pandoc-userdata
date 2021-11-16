@@ -4,4 +4,4 @@ defaults:
 variables:
   fontsize: 12pt
   mainfont: Unistra A
-  monofont: JetBrains Mono
+  monofont: Cascadia Code

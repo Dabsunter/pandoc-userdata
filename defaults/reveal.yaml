@@ -13,6 +13,9 @@ slide-level: 2
 variables:
   revealjs-url: https://cdn.jsdelivr.net/npm/reveal.js@^4
   highlightjs: true
+  previewLinks: true
+  height: 1080
+  width: 1620
 
 filters:
   - revealjs-codeblock.lua
