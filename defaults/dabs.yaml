@@ -1,5 +1,4 @@
-metadata:
-  author: David Nicolazo
+metadata-file: ${USERDATA}/metadatas/dabs.yaml
 
 pdf-engine: xelatex
 

@@ -3,5 +3,7 @@ defaults:
 
 variables:
   fontsize: 12pt
-  mainfont: Unistra A
+  mainfont: Brill
+  mainfontoptions:
+    - Numbers=Lining
   monofont: Cascadia Code
